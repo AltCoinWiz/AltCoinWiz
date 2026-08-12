@@ -1,6 +1,6 @@
   <div align="center">
 
-  # Hi, I'm Wizard 👋
+  # Hi, I'm Wizard 🧙
 
   ### Linux • Cybersecurity • Tor • Ethical Hacking • Algorithmic Trading
 
