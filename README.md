@@ -1,16 +1,15 @@
-## Hi there 👋
+  <div align="center">
 
-<!--
-**AltCoinWiz/AltCoinWiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hi, I'm Wizard 👋
 
-Here are some ideas to get you started:
+  ### Linux • Cybersecurity • Tor • Ethical Hacking • Algorithmic Trading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Exploring privacy, anonymity, offensive security, distributed systems, and automated markets.
+
+  <p><em>“They can’t leak what they never stored.”</em></p>
+
+  <br>
+
+  <img src="./snake.svg" alt="Animated contribution snake" width="100%">
+
+  </div>
