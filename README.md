@@ -1,15 +1,15 @@
-  <div align="center">
+<div align='center'>
 
-  # Hi, I'm Wizard 🧙
+# Hi, I'm Wizard 🧙
 
-  ### Linux • Cybersecurity • Tor • Ethical Hacking • Algorithmic Trading
+### Linux • Cybersecurity • Tor • Ethical Hacking • Algorithmic Trading
 
-  Exploring privacy, anonymity, offensive security, distributed systems, and automated markets.
+Exploring privacy, anonymity, offensive security, distributed systems, and automated markets.
 
-  <p><em>“They can’t leak what they never stored.”</em></p>
+<p><em>&ldquo;They can&rsquo;t leak what they never stored.&rdquo;</em></p>
 
-  <br>
+<br>
 
-  <img src="./snake.svg" alt="Animated contribution snake" width="100%">
+<img src='./snake.svg' alt='Animated contribution snake' width='100%'>
 
-  </div>
+</div>
