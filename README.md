@@ -2,10 +2,6 @@
 
 # Hi, I'm Wizard 🧙
 
-### Linux • Cybersecurity • Tor • Ethical Hacking • Algorithmic Trading
-
-Exploring privacy, anonymity, offensive security, distributed systems, and automated markets.
-
 <p align='center'>
   <img src='https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white' alt='C sharp and .NET'>
   <img src='https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white' alt='Kotlin'>
@@ -13,9 +9,6 @@ Exploring privacy, anonymity, offensive security, distributed systems, and autom
   <img src='https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white' alt='Java'>
   <img src='https://img.shields.io/badge/Rust-000000?style=flat-square&amp;logo=rust&amp;logoColor=white' alt='Rust'>
   <img src='https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white' alt='Python'>
-</p>
-
-<p align='center'>
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black' alt='JavaScript'>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white' alt='HTML5'>
   <img src='https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white' alt='CSS3'>
