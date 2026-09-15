@@ -4,7 +4,7 @@
 
 `C#` · `Kotlin` · `Swift` · `Java` · `Rust` · `Python` · `JavaScript`
 
-[SecureLegion](https://www.securelegion.org/) · [HyperionX](https://www.hyperionx.trade/)
+[SecureLegion](https://www.securelegion.org/) · [HyperionX](https://www.hyperionx.trade/) · [CouldBet](https://www.could.bet/) 
 
 *“They can't leak what they never stored.”*
 
