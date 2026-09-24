@@ -4,7 +4,7 @@
 
 `C#` · `Kotlin` · `Swift` · `Java` · `Rust` · `Python` · `JavaScript`
 
-Dev of : [CouldBet](https://www.could.bet/) · [SecureLegion](https://www.securelegion.org/) · [HyperionX](https://www.hyperionx.trade/) 
+· [SecureLegion](https://www.securelegion.org/) · [HyperionX](https://www.hyperionx.trade/) 
 
 *“3x Hackathon Winner”* 
 
